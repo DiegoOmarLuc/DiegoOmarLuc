@@ -53,12 +53,3 @@
 
 Por ahora no tengo enlaces de contacto públicos.
 
----
-
-## ✨ Plantilla rápida (para completar)
-
-- 🧭 **Actualmente:** [en qué estás trabajando]
-- 🌱 **Aprendiendo:** [tech]
-- 🤝 **Colaboraciones:** [tipo de proyectos]
-- 📧 **Email/LinkedIn:** [link]
-- ⚡ **Dato curioso:** [dato]
