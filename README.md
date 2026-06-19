@@ -24,8 +24,6 @@
 
 ## 🧰 Tecnologías
 
-> Edita esta lista según tus proyectos actuales.
-
 **Backend:** Node.js
 
 **Mobile:** Android, Flutter
